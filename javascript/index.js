@@ -43,6 +43,7 @@ function updateCity(event) {
           )} <small>${cityTime.format("A")}</small>
           </div>
         </div>
+        <a href="/" class="homepage-link">Main Page</a>
   `;
 }
 
